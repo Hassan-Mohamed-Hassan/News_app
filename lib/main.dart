@@ -65,7 +65,7 @@ class NewsApp extends StatelessWidget{
 
               ),
             inputDecorationTheme: InputDecorationTheme(
-          fillColor: Colors.grey,
+          fillColor: Colors.black12,
             filled: true,
           )
           ),
